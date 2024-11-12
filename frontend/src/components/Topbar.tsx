@@ -13,8 +13,6 @@ const Topbar = () => {
         backdrop-blur-md z-10 rounded-md
     ">
             <div className="flex gap-2 items-center ">
-                {/* <img src="/spotify.png" alt="Spotify Logo" className="size-8" /> */}
-                <img src="/Vibeify.png" alt="" className="size-12 rounded-full"/>
                 <p className="font-bold text-lg">Vibeify</p>
             </div>
             <div className="flex items-center gap-4">
